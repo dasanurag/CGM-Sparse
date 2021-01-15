@@ -1,1 +1,1 @@
-# CGM-Sparse
+# Macronutrient prediction using sparse coding
